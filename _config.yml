@@ -1,0 +1,10 @@
+# basic options
+title: awesome blog
+author: Smart Guy
+email: your-email@domain.com
+description: A wonderful site
+github_username:  apclemens
+
+# Build settings
+markdown: kramdown
+theme: minima
