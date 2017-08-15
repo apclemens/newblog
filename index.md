@@ -1,6 +1,10 @@
 ---
 layout: page
-title: NewBlog
+title: home
 ---
 
-The front page.
+<h1>This is the home page</h1>
+
+site.time
+
+site.pages
