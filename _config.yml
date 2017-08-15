@@ -7,4 +7,4 @@ github_username:  apclemens
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
